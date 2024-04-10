@@ -16,10 +16,10 @@ sudo mkdir -p /mnt/nfs_share
 Edit the `/etc/exports` file and add the following lines:
 
 ```bash
-/mnt/nfs_share client_ip(rw,sync,no_subtree_check)
+/mnt/nfs_share plex_server_ip(rw,sync,no_subtree_check)
 ```
 
-Replace `client_ip` with the IP address of the client that will be accessing the NFS share.
+Replace `plex_server_ip` with the IP address of the Plex server that will be accessing the NFS share.
 
 ## Step 4: Start the NFS Server
 
