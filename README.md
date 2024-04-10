@@ -1,4 +1,4 @@
-![Plex and NFS Integration](https://play-lh.googleusercontent.com/F39M_Ce9OBW62qntNOq6jvUH3Nh0N-03eGNFFU14GAU-hCU0RlHBONYYBiS-0SY0kaY)
+<img src="https://play-lh.googleusercontent.com/F39M_Ce9OBW62qntNOq6jvUH3Nh0N-03eGNFFU14GAU-hCU0RlHBONYYBiS-0SY0kaY" width="200" height="200">
 
 # Plex and NFS Integration
 
