@@ -1,3 +1,5 @@
+![Plex and NFS Integration](https://play-lh.googleusercontent.com/F39M_Ce9OBW62qntNOq6jvUH3Nh0N-03eGNFFU14GAU-hCU0RlHBONYYBiS-0SY0kaY)
+
 # Plex and NFS Integration
 
 This guide will walk you through the technical process of integrating Plex with NFS. 📺
@@ -23,4 +25,5 @@ Once NFS is set up on your NAS, you'll need to mount your NFS share on your Plex
 Finally, you'll need to configure Plex to use your NFS share. This is typically done through the Plex web interface, by adding a new library and specifying the path to your NFS share. The exact steps will depend on your Plex server's version. Consult the Plex documentation for specific instructions. 📡
 
 That's it! Your Plex server should now be able to access your media files on your NFS share. 🎉
+
 
