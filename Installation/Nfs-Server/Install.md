@@ -33,3 +33,5 @@ sudo systemctl enable nfs-kernel-server
 ```bash
 sudo systemctl status nfs-kernel-server
 ```
+
+🎉 Congratulations! You have successfully set up your NFS server. 🎉
